@@ -1,0 +1,20 @@
+{
+  "name": "spacing",
+  "version": "0.0.1",
+  "homepage": "https://github.com/cssberries/trumps.spacing",
+  "authors": [
+    "Yevgeniy Belov"
+  ],
+  "description": "Quantized margins and padding",
+  "main": "trumps.spacing.scss",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "css"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "modular-values": "latest"
+  }
+}
